@@ -1,0 +1,37 @@
+1. On https://qahacking.guru/index.php/about#
+In the question Size of the dog you plan to buy you can
+All sizes can be selected, the meaning here should be to select one option.
+2 On the header, you can only go to TIPS from the About Us page.
+3. At https://qahacking.guru/index.php/magazin there is an option to add 
+product to the cart without its availability.
+4. On the page http://qahacking.guru/index.php/about Ask us about dogs
+doesn't display the word on the Send button only when hovering over it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. На странице https://qahacking.guru/index.php/about#
+в вопросе Размер собаки, которую вы планируете купить можно
+выбрать все размеры, по смыслу тут должен быть выбор одного варианта
+2 На заголовке переход на СОВЕТЫ возможен только со страницы О НАС.
+3. В https://qahacking.guru/index.php/magazin есть возможность добавить 
+товар в корзину без его наличия.
+4. На странице http://qahacking.guru/index.php/about Спросите нас о собачках
+не отображается слово на кнопке Send только при навеждении курсора.
