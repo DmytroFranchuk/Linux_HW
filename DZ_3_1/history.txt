@@ -1,0 +1,18 @@
+   0 pwd
+   1 cd /
+   2 ls
+   3 cd tmp
+   4 ls
+   5 date > new_file.txt
+   6 ls
+   7 cat new_file.txt 
+   8 df -h / >> new_file.txt
+   9 cat new_file.txt 
+  10 history -n | tail -5 >> new_file.txt
+  11 cat new_file.txt 
+  12 grep 'vendor' /proc/cpuinfo >> new_file.txt
+  13 cat new_file.txt 
+  14 nano new_file.txt 
+  15 cat new_file.txt 
+  16 export_file new_file.txt 
+  17 history > history.txt
