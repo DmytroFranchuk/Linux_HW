@@ -1,0 +1,8 @@
+task #1
+O(n)
+task #2
+O(n * log n)
+task #3
+O(n^2)
+task #4
+O(log n)
